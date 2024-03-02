@@ -1,6 +1,6 @@
 class Protect:
 
-#protected value
+    #protected value
     _protect_var1 ="protectvalue"
 
     def __init__(self):
