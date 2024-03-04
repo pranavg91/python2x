@@ -4,7 +4,7 @@ a= filexyz.A()
 a.print()
 
 
-b =filexyz.B()
+b = filexyz.B()
 b.print()
 
 filexyz.c()
