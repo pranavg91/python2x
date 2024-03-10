@@ -10,7 +10,7 @@ except ValueError as v:
 
 except ZeroDivisionError as z:
     print("0 is not allowed")
-
+    
 else:
     print("Div is ",c)
 finally:
